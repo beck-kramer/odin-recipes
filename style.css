@@ -1,0 +1,55 @@
+body {
+    box-sizing: border-box;
+}
+
+.recipes {
+    background-color: rgba(179, 7, 7, .5);
+    color: white;
+    height: 40px;
+    width: 180px;
+    display: block;
+    padding: 10px;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.img {
+    height: 400px;
+    width: 550px;
+    display: block;
+    margin: 30px auto;
+}
+
+.tacos {
+    background-color: rgba(179, 7, 7, 0.2);
+    color: black;
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    font-size: 50px;
+}
+
+.ccc {
+    background-color: rgba(138, 12, 12, 0.2);
+    color: black;
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    font-size: 50px;
+}
+
+.spaghetti {
+    background-color: rgba(93, 10, 10, 0.2);
+    color: black;
+    display: block;
+    text-align: center;
+    margin: auto auto 100px auto;
+    padding: 10px;
+    font-size: 50px;
+}
+
+.signature {
+    text-align: right;
+}
